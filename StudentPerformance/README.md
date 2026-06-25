@@ -6,7 +6,7 @@ The **Student Performance Dataset** is designed to examine the factors that infl
 
 This dataset aims to help researchers, students, and data analysts explore the relationship between different academic and lifestyle factors and overall student performance.
 
-La base de datos esta aquí {https://www.kaggle.com/datasets/nikhil7280/student-performance-multiple-linear-regression}
+La base de datos esta {aquí}(https://www.kaggle.com/datasets/nikhil7280/student-performance-multiple-linear-regression)
 
 ---
 
